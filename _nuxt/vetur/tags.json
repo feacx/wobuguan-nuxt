@@ -1,0 +1,32 @@
+{
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "LazyNavbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "Preloader": {
+    "description": "Auto imported from components/Preloader.vue"
+  },
+  "LazyPreloader": {
+    "description": "Auto imported from components/Preloader.vue"
+  },
+  "Banner": {
+    "description": "Auto imported from components/index/Banner.vue"
+  },
+  "LazyBanner": {
+    "description": "Auto imported from components/index/Banner.vue"
+  },
+  "Why": {
+    "description": "Auto imported from components/index/Why.vue"
+  },
+  "LazyWhy": {
+    "description": "Auto imported from components/index/Why.vue"
+  }
+}
